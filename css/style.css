@@ -56,7 +56,7 @@
 .button-m{
    
     border-radius: 20px;
-    background-color: rgb(255, 148, 184) ;
+    background-color:var(--color2) ;
     padding: 10px;
 }
 .hre{
