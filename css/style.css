@@ -1,0 +1,68 @@
+/* color 2 -#E1958B, color1 -#ffdfc4 */
+/*Цвета*/
+:root{
+    --color1 : #ffe5f0;
+    --color2 : #eda4d0;
+    --color3:rgb(255, 198, 217);
+    /* --color3 : #e6afa8; */
+
+
+}
+.vin-back{
+    background-color: var(--color2);
+}
+.vin-back1{
+    background-color: var(--color1);
+}
+.vin-back2{
+    background-color: var(--color3);
+}
+.link-head{
+    /* text-decoration: none; */
+    color: white;
+}
+.link-head:hover{
+    color: var(--color1);
+}
+.card-prod{
+    border: 10px var(--color1) solid;
+}
+.title-card{
+    border-radius: 50px;
+}
+.title-card2{
+    border-radius: 40px;
+}
+.circle{
+    border-radius: 20px;
+}
+.title-card1{
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.lst{
+    list-style-image: url(../img/icon/gal.png);
+}
+.lst1{
+    list-style-image: url(../img/icon/gal.png);
+}
+.otstup{
+  margin-top: 35px;
+
+}
+.button-m{
+   
+    border-radius: 20px;
+    background-color: rgb(255, 148, 184) ;
+    padding: 10px;
+}
+.hre{
+    text-decoration: none;
+    color:black;
+}
+.hre:hover{
+    color: blanchedalmond;
+}
