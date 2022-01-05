@@ -1,8 +1,10 @@
 /* color 2 -#E1958B, color1 -#ffdfc4 */
 /*Цвета*/
 :root{
-    --color1 : #ffe5f0;
-    --color2 : #eda4d0;
+    /* --color1 : #ffe5f0;
+    --color2 : #eda4d0; */
+    --color1 : #fce9e5;
+    --color2 : #f3cad0;
     --color3:rgb(255, 198, 217);
     /* --color3 : #e6afa8; */
 
