@@ -10,6 +10,15 @@
 
 
 }
+body{
+    font-family: 'Century Gothic';
+}
+h1,h3,h4,h2,h5,h6{
+    font-family: 'Century Gothic';
+    font-weight: bold;
+	font-style: italic;
+}
+
 .vin-back{
     background-color: var(--color2);
 }
@@ -21,7 +30,7 @@
 }
 .link-head{
     /* text-decoration: none; */
-    color: white;
+    color: black;
 }
 .link-head:hover{
     color: var(--color1);
@@ -47,9 +56,11 @@
 }
 .lst{
     list-style-image: url(../img/icon/gal.png);
+    text-indent: 15px;
 }
 .lst1{
     list-style-image: url(../img/icon/gal.png);
+    text-indent: 15px;
 }
 .otstup{
   margin-top: 35px;
@@ -60,6 +71,10 @@
     border-radius: 20px;
     background-color:var(--color2) ;
     padding: 10px;
+    -webkit-box-shadow: 6px 3px 16px rgba(20, 20, 20, 0.7);
+-moz-box-shadow:    6px 3px 16px rgba(20, 20, 20, 0.7);
+box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7);
+    
 }
 .hre{
     text-decoration: none;
@@ -67,4 +82,24 @@
 }
 .hre:hover{
     color: blanchedalmond;
+}
+.text-l{
+    text-align:left!important;
+    text-indent: 20px;
+}
+.button-m1{
+    color: rgb(22, 22, 22);
+    -webkit-border-radius: 44px;
+-moz-border-radius: 44px;
+border-radius: 44px;
+background: rgb(252, 233, 229);
+background: -moz-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
+background: -webkit-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
+background: -o-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
+background: -ms-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
+background: linear-gradient(1deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
+-webkit-box-shadow: 6px 3px 16px rgba(20, 20, 20, 0.7);
+-moz-box-shadow:    6px 3px 16px rgba(20, 20, 20, 0.7);
+box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7);
+    
 }
