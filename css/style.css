@@ -55,6 +55,8 @@ h1,h3,h4,h2,h5,h6{
     padding-left: 2px;
 }
 .lst{
+    
+   
     list-style-image: url(../img/icon/gal.png);
     text-indent: 15px;
 }
@@ -71,9 +73,9 @@ h1,h3,h4,h2,h5,h6{
     border-radius: 20px;
     background-color:var(--color2) ;
     padding: 10px;
-    -webkit-box-shadow: 6px 3px 16px rgba(20, 20, 20, 0.7);
--moz-box-shadow:    6px 3px 16px rgba(20, 20, 20, 0.7);
-box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7);
+    -webkit-box-shadow: 4px 2px 8px rgba(126, 119, 119, 0.7);
+-moz-box-shadow:   4px 2px 8px rgba(126, 119, 119, 0.7);
+box-shadow:        4px 2px 8px rgba(117, 116, 116, 0.7);
     
 }
 .hre{
@@ -105,8 +107,8 @@ box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7); */
 -moz-border-radius: 30px;
 border-radius: 30px;
 
--webkit-box-shadow: 0px 6px 5px rgba(198, 198, 198, 0.47);
--moz-box-shadow:    0px 6px 5px rgba(198, 198, 198, 0.47);
-box-shadow:         0px 6px 5px rgba(198, 198, 198, 0.47);
-    
+
+-webkit-box-shadow: 4px 2px 8px rgba(126, 119, 119, 0.7);
+-moz-box-shadow:   4px 2px 8px rgba(126, 119, 119, 0.7);
+box-shadow:        4px 2px 8px rgba(117, 116, 116, 0.7);
 }
