@@ -89,17 +89,24 @@ box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7);
 }
 .button-m1{
     color: rgb(22, 22, 22);
-    -webkit-border-radius: 44px;
+    /* -webkit-border-radius: 44px;
 -moz-border-radius: 44px;
-border-radius: 44px;
+border-radius: 44px; */
 background: rgb(252, 233, 229);
 background: -moz-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
 background: -webkit-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
 background: -o-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
 background: -ms-linear-gradient(91deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
 background: linear-gradient(1deg, rgb(252, 233, 229) 42%, rgb(252, 233, 255) 77%);
--webkit-box-shadow: 6px 3px 16px rgba(20, 20, 20, 0.7);
+/* -webkit-box-shadow: 6px 3px 16px rgba(20, 20, 20, 0.7);
 -moz-box-shadow:    6px 3px 16px rgba(20, 20, 20, 0.7);
-box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7);
+box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7); */
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+
+-webkit-box-shadow: 0px 6px 5px rgba(198, 198, 198, 0.47);
+-moz-box-shadow:    0px 6px 5px rgba(198, 198, 198, 0.47);
+box-shadow:         0px 6px 5px rgba(198, 198, 198, 0.47);
     
 }
