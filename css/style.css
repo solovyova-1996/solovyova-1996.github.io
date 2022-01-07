@@ -108,7 +108,7 @@ box-shadow:         6px 3px 16px rgba(20, 20, 20, 0.7); */
 border-radius: 30px;
 
 
--webkit-box-shadow: 2px 1px 4px rgba(126, 119, 119, 0.7);
--moz-box-shadow:   2px 1px 4px rgba(126, 119, 119, 0.7);
-box-shadow:        2px 1px 4px rgba(117, 116, 116, 0.7);
+-webkit-box-shadow: 2px 1px 4px rgba(170, 158, 158, 0.9);
+-moz-box-shadow:   2px 1px 4px rgba(170, 158, 158, 0.9);
+box-shadow:        2px 1px 4px rgba(170, 158, 158, 0.9);
 }
